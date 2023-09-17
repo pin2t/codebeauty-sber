@@ -10,6 +10,13 @@ Java 17+ is required
  
 
 ### API
+
+Endpoint
+```
+/api/checkBrackets
+```
+Checks that text contains matched open and closed brackets and there are some text between them
+
     
 #### Request
 
