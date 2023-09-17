@@ -1,5 +1,5 @@
 This repository contains solution for code beauty competition by Sber https://beautifulcode.sber.ru/task/java
-Focus on maximum simplicity, minimum dependencies
+with focus on simplicity and minimum dependencies
 
 ### How to run
 
