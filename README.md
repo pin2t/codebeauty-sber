@@ -6,7 +6,7 @@ Focus on maximum simplicity, minimum dependencies
 
 ```java -cp ./json-simple-1.1.1.jar TextServer.java```
 
-Java 11+ is required
+Java 17+ is required
  
 
 ### API
